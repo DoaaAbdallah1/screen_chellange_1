@@ -6,7 +6,7 @@ A new Flutter project.
 
 ### Screen Challenge 1
 
-![Aspen App Screenshot](assets/images/Aspen.png)
+![Aspen App Screenshot](assets/images/screens.png)
 
 This project is a starting point for a Flutter application.
 
